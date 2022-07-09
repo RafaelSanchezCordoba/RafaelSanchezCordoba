@@ -1,4 +1,4 @@
-### Hi there 👋, Rafael Sánchez
+### Rafael Sánchez
 #### Software Engineering Student
 I'm Rafa from Spain and I'm a software engineering student at VIA University College, Denmark. I really enjoy learning new languages and frameworks as react, node.js, swift... My goal this year is to get a student job as a software engineer.
 
