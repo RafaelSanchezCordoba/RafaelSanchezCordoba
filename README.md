@@ -1,11 +1,11 @@
 ### Rafael Sánchez
 #### Software Engineering Student
-I'm Rafa from Spain and I'm a software engineering student at VIA University College, Denmark. I really enjoy learning new languages and frameworks as react, node.js, swift... My goal this year is to get a student job as a software engineer.
+Hi! I'm Rafa and I'm a dedicated, ambitious, and hardworking software engineering student eager to learn new skills and take on new challenges. I have experience working with Java, .NET, React, CSS, and SQL as well as excellent interpersonal skills, enabling me to work collaboratively with team members and effectively communicate with stakeholders..
 
-Skills: React / Java / Postgres / HTML / CSS
+Skills: React / Java / SQL / .NET / C# / HTML / CSS
 
-- 🔭 I’m currently working on my personal portfolio 
-- 🌱 I’m currently learning React 
+- 🔭 I’m currently working on a react app about F1
+- 🌱 I’m currently learning Typescript 
 - 📫 How to reach me: rafasanchezcordoba@gmail.com 
 
 
