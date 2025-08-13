@@ -1,9 +1,11 @@
 ### Rafael Sánchez
-#### Software Engineering Student
-Hi! I'm Rafa and I'm a dedicated, ambitious, and hardworking software engineering student eager to learn new skills and take on new challenges. I have experience working with Java, .NET, React, CSS, and SQL as well as excellent interpersonal skills, enabling me to work collaboratively with team members and effectively communicate with stakeholders..
+#### Software Engineer | Data & Automation Enthusiast | Aspiring Project Manager
+Hi! I’m Rafa — a dedicated and curious software engineer with a passion for building data-driven solutions and digital tools that make processes smarter and more efficient.
+I enjoy working at the intersection of software development, data analysis, and automation, and I’m always eager to learn new technologies that bring ideas to life.
 
-Skills: React / Java / SQL / .NET / C# / HTML / CSS
+💡 Tech stack & tools: React, Angular, .NET, C#, Java, Python, SQL, Power BI, Power Automate, Power Apps, Microsoft 365 Suite, Docker, Git.
 
+🚀 Current focus:
 - 🔭 I’m currently working on a react app about F1
 - 🌱 I’m currently learning Typescript 
 - 📫 How to reach me: rafasanchezcordoba@gmail.com 
