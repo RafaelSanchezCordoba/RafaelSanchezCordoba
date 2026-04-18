@@ -5,10 +5,7 @@ I enjoy working at the intersection of software development, data analysis, and 
 
 💡 Tech stack & tools: React, Angular, .NET, C#, Java, Python, SQL, Power BI, Power Automate, Power Apps, Microsoft 365 Suite, Docker, Git.
 
-🚀 Current focus:
-- 🔭 I’m currently working on a react app about F1
-- 🌱 I’m currently learning Typescript 
-- 📫 How to reach me: rafasanchezcordoba@gmail.com 
+📫 How to reach me: rafasanchezcordoba@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RafaelSanchezCordoba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rafael-sánchez-córdoba-672693184/)
